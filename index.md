@@ -1,4 +1,9 @@
- # Cross-country skiing #
+ # Cross-country skiing # 
+
+ - [chapter 1](#what-is-cross-country-skiing)
+ - [chapter 2](#the-origins)
+ - [chapter 3](#gear)
+  
  ## What is cross-country skiing ##
 
  ![
