@@ -1,0 +1,1 @@
+komunikaty o błędach
