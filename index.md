@@ -49,3 +49,9 @@ Your mid-layer typically is going to be a cross-country specific jacket, or a wi
 Cross-country specific jackets and pants will often have ventilation near the back with wind blocking material in the front. Much like the base layers, you’ll want something that is lightweight and allows for a full range of motion. 
 
 For an added layer of warmth, you should wear an insulated vest over your jacket.
+
+### Outer layers ###
+
+Your outer layer is going to be for your extra warm jacket, and occasionally your big snow pants. These should be big enough to fit over the other layers previously mentioned. 
+
+The pants are really reserved for if you are on touring skis moving slowly, coaching at a race, or you’re doing a cooldown after your race.
