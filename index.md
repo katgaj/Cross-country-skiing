@@ -63,3 +63,13 @@ When skiing in truly cold conditions, any exposed skin can quickly show signs of
 Start with wearing a hat (or touque for our Canuck friends to the North).Your body loses about 10% of its heat through your head. Much like the base layer, aim to have a lightweight wool or polypropylene cap.
 
 Cover your neck with a gaiter. Again, lightweight and breathable is the name of the game. 
+
+### Hands and feet ###
+
+Your hands and feet are particularly susceptible to the cold. 
+
+The most important thing to keep your hands and feet warm is to maintain a warm torso. When your body gets cold, its first instinct is to pull blood away from the surface of the skin and extremities.
+
+ To prevent this, keep your skin covered, and your torso warm.
+
+For your hands, mittens are the way to go. 
