@@ -55,3 +55,11 @@ For an added layer of warmth, you should wear an insulated vest over your jacket
 Your outer layer is going to be for your extra warm jacket, and occasionally your big snow pants. These should be big enough to fit over the other layers previously mentioned. 
 
 The pants are really reserved for if you are on touring skis moving slowly, coaching at a race, or you’re doing a cooldown after your race.
+
+### Head and neck ###
+
+When skiing in truly cold conditions, any exposed skin can quickly show signs of frostbite.
+
+Start with wearing a hat (or touque for our Canuck friends to the North).Your body loses about 10% of its heat through your head. Much like the base layer, aim to have a lightweight wool or polypropylene cap.
+
+Cover your neck with a gaiter. Again, lightweight and breathable is the name of the game. 
