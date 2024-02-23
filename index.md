@@ -1,4 +1,4 @@
- # Cross-country skiing # 
+ # Cross-country skiing # <!-- omit in toc -->
 
  - [chapter 1](#what-is-cross-country-skiing)
  - [chapter 2](#the-origins)
