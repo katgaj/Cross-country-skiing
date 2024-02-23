@@ -1,15 +1,6 @@
- # Cross-country skiing #<!-- omit in toc -->- [What is cross-country skiing](#what-is-cross-country-skiing)
-- [Cross-country skiing #- What is cross-country skiing](#cross-country-skiing---what-is-cross-country-skiing)
-  - [What is cross-country skiing](#what-is-cross-country-skiing)
-  - [The origins](#the-origins)
-  - [Gear](#gear)
-  - [Outfit](#outfit)
-    - [Base layers](#base-layers)
-    - [Middle layers](#middle-layers)
-    - [Outer layers](#outer-layers)
-    - [Head and neck](#head-and-neck)
-    - [Hands and feet](#hands-and-feet)
-  
+ 
+ # Cross-country skiing #
+
  ## What is cross-country skiing ##
 
  ![
